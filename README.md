@@ -34,12 +34,12 @@ export default () => (
 ```
 
 ## 📌 Props
------
+
 Prop                  | Type     | Default                   | Required
 --------------------- | -------- | ------------------------- | --------
-style|shape[object Object]|Object.freeze({})|No
-size|number|40|No
-color|string|'red'|No
+`style`|shape|`{}`|No
+`size`|number|`40`|No
+`color`|string|`'red'`|No
 
 ## ✌️ License
 [MIT](https://opensource.org/licenses/MIT)
