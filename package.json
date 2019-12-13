@@ -26,9 +26,9 @@
     }
   },
   "name": "react-bulb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A colorful boolean indicator for React.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/cawfree/react-bulb",
   "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
   "license": "MIT",
